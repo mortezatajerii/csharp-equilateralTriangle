@@ -9,7 +9,7 @@
       <p>
         <a href="https://i.stack.imgur.com/0Gbf6.png"
           ><img
-            width="25%"
+            width="30%"
             align="right"
             src="https://i.stack.imgur.com/0Gbf6.png"
         /></a>
