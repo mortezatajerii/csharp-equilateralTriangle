@@ -7,6 +7,12 @@
     <h1>Printed Equilateral Triangle Whit Asterisk Sign(*)</h1>
     <div>
       <p>
+        <a href="https://i.stack.imgur.com/0Gbf6.png"
+          ><img
+            width="25%"
+            align="right"
+            src="https://i.stack.imgur.com/0Gbf6.png"
+        /></a>
         It's a project for testing knowledge in use of "WriteLine" and "Write"
         methods.<br />
         It is only for practice and has no other purpose.<br /><br />
@@ -17,11 +23,6 @@
         If you have any messages for me, rich me by E-mail at
         <a href="mailto: mortezatajerii@gmail.com">mortezatajerii@gmail.com</a>
       </p>
-    </div>
-    <div>
-      <a href="https://i.stack.imgur.com/0Gbf6.png"
-        ><img src="https://i.stack.imgur.com/0Gbf6.png"
-      /></a>
     </div>
   </body>
 </html>
